@@ -6,3 +6,8 @@ NLP:-
   https://jalammar.github.io/illustrated-transformer/
   https://modelzoo.co/
   
+  
+You Tube Videos:-
+ 
+  *Gradient Descent - https://www.youtube.com/watch?v=sDv4f4s2SB8
+  
